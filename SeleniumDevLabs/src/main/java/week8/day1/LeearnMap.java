@@ -35,10 +35,15 @@ public class LeearnMap {
 	}
 	
 	private void testMethod() {
+		
 		System.out.println("Test method for Merge conflict");
 	}
 	
 	private void pullRequestKoushik() {
 		System.out.println("Test Method for Pull request (Koushik)");
 	}
+	private void pullRequestKarthik() {
+		System.out.println("Test method for Pull Request (Karthik)");
+	}	
+
 }
