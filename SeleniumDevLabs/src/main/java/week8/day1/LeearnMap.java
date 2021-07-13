@@ -34,5 +34,9 @@ public class LeearnMap {
 		
 	}
 	
+	private void testMethod() {
+		System.out.println("Test method for Merge conflict");
+	}
+	
 
 }
