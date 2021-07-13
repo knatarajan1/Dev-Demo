@@ -39,8 +39,8 @@ public class LeearnMap {
 		System.out.println("Test method for Merge conflict");
 	}
 	
-	private void pullRequestKoushik() {
-		System.out.println("Test method for Pull Request (Koushik)");
+	private void pullRequestKarthik() {
+		System.out.println("Test method for Pull Request (Karthik)");
 	}	
 
 }
