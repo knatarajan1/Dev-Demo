@@ -35,8 +35,12 @@ public class LeearnMap {
 	}
 	
 	private void testMethod() {
+		
 		System.out.println("Test method for Merge conflict");
 	}
 	
+	private void pullRequestKoushik() {
+		System.out.println("Test method for Pull Request (Koushik)");
+	}	
 
 }
